@@ -1,0 +1,40 @@
+# Data directories (too large for git, contain sensitive patient data)
+ALL DATA FILES REPOSITORY/
+MODEL 1 DATASET/
+ORGANIZED GROUPED DATASETS/
+
+# Generated reports and outputs
+reports/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Python virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Model files (if saved)
+*.pkl
+*.h5
+*.model
+
+# Logs
+*.log
+
