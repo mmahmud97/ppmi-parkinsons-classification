@@ -1,6 +1,6 @@
 # PPMI MODEL 1 Dataset: Comprehensive Machine Learning Analysis
 
-## 📋 Project Overview
+## Project Overview
 
 This project presents a comprehensive machine learning analysis of the **Parkinson's Progression Markers Initiative (PPMI) MODEL 1 Dataset**. The PPMI is a landmark observational clinical study designed to identify biomarkers of Parkinson's disease (PD) progression. This analysis pipeline systematically processes, validates, and models clinical data to develop classification models for Parkinson's disease diagnosis and progression prediction.
 
@@ -16,7 +16,7 @@ This project presents a comprehensive machine learning analysis of the **Parkins
 
 ---
 
-## 🗂️ Dataset Description
+## Dataset Description
 
 ### PPMI Dataset Structure
 
@@ -72,7 +72,7 @@ The project works with two main data repositories:
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 PPMI MODEL DATASET COMBINATIONS/
@@ -108,7 +108,7 @@ PPMI MODEL DATASET COMBINATIONS/
 
 ---
 
-## 🔧 Features Created
+## Features Created
 
 ### Feature Engineering Pipeline
 
@@ -171,7 +171,7 @@ The project extracts **26+ features** across multiple domains:
 
 ---
 
-## 📊 Analysis Pipeline
+## Analysis Pipeline
 
 ### Step 1: Data Inventory and Mapping (`data_inventory.py`)
 
@@ -419,7 +419,7 @@ The project extracts **26+ features** across multiple domains:
 
 ---
 
-## 🎯 Key Results and Findings
+## Key Results and Findings
 
 ### 1. Data Validation ✅
 - **MODEL 1 DATASET is confirmed as a proper subset** of ALL DATA FILES REPOSITORY
@@ -450,7 +450,7 @@ The project extracts **26+ features** across multiple domains:
 
 ---
 
-## 💻 Technical Details
+## Technical Details
 
 ### Technology Stack
 
@@ -495,7 +495,7 @@ seaborn>=0.13
 
 ---
 
-## 🚀 Usage Instructions
+## Usage Instructions
 
 ### Prerequisites
 
@@ -578,7 +578,7 @@ python generate_final_report.py --reports-dir reports --out-path reports/FINAL_R
 
 ---
 
-## 📈 Clinical Significance
+## Clinical Significance
 
 ### Why This Matters
 
@@ -596,7 +596,7 @@ python generate_final_report.py --reports-dir reports --out-path reports/FINAL_R
 
 ---
 
-## ⚠️ Limitations and Considerations
+## Limitations and Considerations
 
 ### Data Limitations
 
@@ -631,7 +631,7 @@ python generate_final_report.py --reports-dir reports --out-path reports/FINAL_R
 
 ---
 
-## 🔮 Future Directions
+## Future Directions
 
 ### Short-term Improvements
 
@@ -669,7 +669,7 @@ python generate_final_report.py --reports-dir reports --out-path reports/FINAL_R
 
 ---
 
-## 📚 References
+## References
 
 - **PPMI**: Parkinson's Progression Markers Initiative (www.ppmi-info.org)
 - **MDS-UPDRS**: Movement Disorder Society Unified Parkinson's Disease Rating Scale
@@ -679,7 +679,7 @@ python generate_final_report.py --reports-dir reports --out-path reports/FINAL_R
 
 ---
 
-## 📝 License and Data Usage
+## License and Data Usage
 
 **Important**: The PPMI dataset is subject to data use agreements. Users must:
 1. Register with PPMI and obtain data access approval
@@ -691,7 +691,7 @@ This codebase is provided for research purposes. Please ensure compliance with a
 
 ---
 
-## 👥 Acknowledgments
+## Acknowledgments
 
 - **PPMI**: For providing the comprehensive dataset
 - **Contributors**: All researchers who contributed to PPMI data collection
@@ -699,7 +699,7 @@ This codebase is provided for research purposes. Please ensure compliance with a
 
 ---
 
-## 📧 Contact
+## Contact
 
 For questions about this analysis or collaboration opportunities, please open an issue or contact the repository maintainer.
 
